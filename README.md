@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi! I’m Marko Zenchuk
 
-<!--
-**Marko-Programmer/Marko-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
 
-Here are some ideas to get you started:
+📌 **Studying at:**  
+- National University "Lviv Polytechnic" (1st year)  
+- Opole University of Technology, Poland (1st semester)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 **Technologies I work with:**  
+- **Programming Languages:** C++, SQL, JavaScript  
+- **Databases:** MySQL, Oracle SQL Developer
+- **Web Development:** HTML, CSS, JavaScript   
+- **Other Technologies:** MySQL Connector, Git, Regex
+
+
+🔗 **Useful Links:**  
+- [LinkedIn](https://www.linkedin.com/in/marko-zhenchuk-812726357/)  
+- [LeetCode](https://leetcode.com/u/Marko_Zh/)  
+- [GitHub Pages / Personal Website](https://marko-programmer.github.io/CV/index_en.html)  
+
+
+📬 **Contact Info:**  
+- 📧 **Email:** [zhenchukmarko@gmail.com](mailto:your-email@example.com)   
+
+   
+🚀 **Always open to new challenges and projects!**
