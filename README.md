@@ -19,7 +19,7 @@
 **Useful Links:**  
 - [LinkedIn](https://www.linkedin.com/in/marko-zhenchuk-812726357/)  
 - [LeetCode](https://leetcode.com/u/Marko_Zh/)  
-- [GitHub Pages / Personal Website](https://marko-programmer.github.io/cv/)  
+- [CV / Personal Website](https://marko-programmer.github.io/cv/)  
 
 <br>
 
