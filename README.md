@@ -9,10 +9,10 @@
 <br>
 
 **Technologies I work with:**  
-- **Programming Languages:** C++, SQL, JavaScript  
+- **Programming Languages:** Java, C++, SQL, JavaScript  
 - **Databases:** MySQL, Oracle SQL Developer  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Other Technologies:** MySQL Connector, Git, Regex  
+- **Web Development:** HTML, CSS, JavaScript, Spring Boot, REST API
+- **Other Technologies:** MySQL Connector, Git, Regex, Hibernate, JPA
 
 <br>
 
