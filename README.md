@@ -8,11 +8,12 @@
 
 <br>
 
-**Technologies I work with:**  
+**Skills / Tech Stack:**  
 - **Programming Languages:** Java, C++, SQL, JavaScript  
-- **Databases:** MySQL, Oracle SQL Developer  
-- **Web Development:** HTML, CSS, JavaScript, Spring Boot, REST API
-- **Other Technologies:** MySQL Connector, Git, Regex, Hibernate, JPA
+- **Databases:** MySQL, Oracle SQL, JDBC, Hibernate, Spring Data JPA  
+- **Web Development:** HTML5, CSS (SASS), JavaScript, Spring (Boot, MVC, Security), REST API, JWT, Validation, Exception Handling  
+- **Tools & IDEs:** Git, IntelliJ IDEA, Maven, Visual Studio, JUnit 5, Mockito  
+- **Other Concepts:** IoC / DI, Design Patterns (CRUD / DAO), ORM Concepts, Authorization & Authentication, Unit & Integration Testing
 
 <br>
 
