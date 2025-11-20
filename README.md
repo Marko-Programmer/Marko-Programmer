@@ -10,10 +10,10 @@
 
 **Skills / Tech Stack:**  
 - **Programming Languages:** Java, C++, SQL, JavaScript  
-- **Databases:** MySQL, PostgreSQL, Oracle SQL, JDBC, Hibernate, Spring Data JPA  
-- **Web Development:** HTML5, CSS (SASS), JavaScript, Spring (Boot, MVC, Security), REST API, JWT, Validation, Exception Handling  
-- **Tools & IDEs:** Git, IntelliJ IDEA, Maven, Visual Studio, JUnit 5, Mockito, Lombok 
-- **Other Concepts:** IoC / DI, Design Patterns (CRUD / DAO), ORM Concepts, Authorization & Authentication, Unit Testing
+- **Databases:**  PostgreSQL, MySQL, Oracle SQL, JDBC, Hibernate, Spring Data JPA  
+- **Web Development:** Spring (Boot, MVC, Security, Testing), REST API, JWT, HTML5, CSS/SASS, Validation, Exception Handling, Swagger
+- **Tools & IDEs:** Git, IntelliJ IDEA, Maven, Visual Studio, JUnit 5, Mockito, SLF4J/Logback 
+- **Other Concepts:** SOLID, DRY, KISS, IoC / DI, Design Patterns (CRUD / DAO), ORM Concepts, DTO, Authorization & Authentication, Unit Testing, Clean Architecture, Concurrency/Parallelism
 
 <br>
 
