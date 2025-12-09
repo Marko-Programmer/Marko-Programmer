@@ -29,4 +29,14 @@
 
 <br>
 
+**Freelance / Commercial Projects:**  
+
+- **Exquisite Canning Recipes** – Developed a small-scale, user-friendly website to share a variety of recipes. The website was built as a freelance project, focused on providing an easy-to-navigate experience, and allowed only the site owner to publish new recipes.  
+  [GitHub / Live Demo](https://marko-programmer.github.io/incredible-recipes/)
+
+- **Anonymous Feedback Bot** – Developed a Telegram bot as a freelance project for a small auto service to collect anonymous employee feedback. The bot analyzes messages using Google AI (Gemini API), evaluates sentiment and urgency, provides recommendations, and stores results in PostgreSQL and Google Sheets.
+  [GitHub](https://github.com/Marko-Programmer/anonymous-feedback-bot)
+
+<br>
+
 🚀 **Always open to new challenges and projects!**
