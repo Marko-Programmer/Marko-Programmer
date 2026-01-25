@@ -12,8 +12,8 @@
 - **Programming Languages:** Java, C++, SQL, JavaScript  
 - **Databases:**  PostgreSQL, MySQL, Oracle SQL, JDBC, Hibernate, Spring Data JPA  
 - **Web Development:** Spring (Boot, MVC, Security, Testing), REST API, JWT, HTML5, CSS/SASS, Validation, Exception Handling, Swagger
-- **Tools & IDEs:** Git, IntelliJ IDEA, Maven, Visual Studio, JUnit 5, Mockito, SLF4J/Logback 
-- **Other Concepts:** SOLID, DRY, KISS, IoC / DI, Design Patterns (CRUD / DAO), ORM Concepts, DTO, Authorization & Authentication, Unit Testing, Clean Architecture, Concurrency/Parallelism
+- **Tools & IDEs:** Git, IntelliJ IDEA, Maven, Visual Studio, JUnit 5, Mockito, SLF4J/Logback, Docker 
+- **Other Concepts:** SOLID, DRY, KISS, IoC / DI, Design Patterns (CRUD / DAO), ORM Concepts, DTO, Authorization & Authentication, Unit/Integration Testing, Clean Architecture, Concurrency/Parallelism
 
 <br>
 
