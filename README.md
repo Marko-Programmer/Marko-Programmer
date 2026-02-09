@@ -3,8 +3,8 @@
 🎓 **Computer Science Student**  
 
 **Studying at:**  
-- National University "Lviv Polytechnic" (1st year)  
-- Opole University of Technology, Poland (3st semester)  
+- Opole University of Technology, Poland (4st semester) 
+- National University "Lviv Polytechnic" (1st year)   
 
 <br>
 
